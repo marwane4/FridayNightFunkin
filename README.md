@@ -1,0 +1,2 @@
+# FridayNightFunkin
+FridayNightFunkin tips
