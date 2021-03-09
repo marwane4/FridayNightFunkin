@@ -1,6 +1,6 @@
 
 	{
-"version": "F 2",
+"version": "v s1",
 "frequence explication": "frequence kithakem f chhal men click iban ads",
 
 		"Frequence": "0",
