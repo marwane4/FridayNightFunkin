@@ -23,7 +23,7 @@
 	"interId": "",
 	"bannerId": "",
 	"rewardadmob": "",
-"Nativeadmob": "ca-app-pub-3940256099942544/2247696110",
+"Nativeadmob": "",
 
 
 "onesignal stuff": "hna key dyal onesignal ",
