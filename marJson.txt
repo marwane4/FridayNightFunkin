@@ -1,6 +1,6 @@
 
 	{
-"version": "Friday v2",
+"version": "Friday v1",
 "frequence explication": "frequence kithakem f chhal men click iban ads",
 
 		"Frequence": "6",
@@ -19,11 +19,11 @@
 
 	"admob": "hado dyal admob li taht",
 
-	"AdmobAppId": "",
+	"AdmobAppId": "ca-app-pub-3940256099942544~3347511713",
 	"interId": "",
 	"bannerId": "",
 	"rewardadmob": "",
-"Nativeadmob": "",
+"Nativeadmob": "ca-app-pub-1602220721519468/3008828561",
 
 
 "onesignal stuff": "hna key dyal onesignal ",
